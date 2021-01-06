@@ -1,0 +1,6 @@
+site_name: Ruffo_Alessandro
+
+nav:
+    - 'MD': 'index.md'
+theme:
+    name: readthedocs
